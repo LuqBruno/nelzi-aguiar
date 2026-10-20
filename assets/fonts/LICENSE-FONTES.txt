@@ -1,0 +1,1 @@
+Fontes em assets/fonts: Newsreader, Geist Mono e Pinyon Script. Licença SIL Open Font License 1.1, obtidas dos pacotes npm @fontsource e auto-hospedadas.
